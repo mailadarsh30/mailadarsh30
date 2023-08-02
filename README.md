@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! I am Adarsh Singh
 Pursuing B.Tech at Lovely Professional University (LPU)<br>Computer Science Engineering<br>Seeking a position as a Software Development Engineer (SDE)<br>Strong problem-solving and analytical skills<br>Demonstrated ability to work collaboratively in a team and deliver high-quality results<br>Passionate about contributing to innovative projects and building user-friendly web applications<br>Skill-Set- MERN Stack
 
 
